@@ -56,8 +56,8 @@ This project shows how to use the OpenAPI specification to define a RESTful web 
    			</configuration>
    		</execution>
    	</executions>
-   **</plugin>
-   <!-- Plugin for gener**ating stub from openapi specification end -->
+   </plugin>
+   <!-- Plugin for generating stub from openapi specification end -->
 ```
 
 5. **OpenAPI-example :** Execute `mvn clean install`, which generates api and model classes in the target folder of `project-api`.
