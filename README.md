@@ -1,13 +1,11 @@
 # OpenAPI Example
 This project shows how to use the OpenAPI specification to define a RESTful web service.
 
-------
 
-## How to read the instruction?
+## How to read the instructions?
 **Module Name** : Instruction.
 
-------
-
+## Instructions
 1. **OpenAPI-example :** Create new spring-boot project.
 2. **project-api :** Add new yaml file library-api.yaml which contains OpenAPI specification.
 3. **project-api :** Add below dependency for Swagger code generation.
