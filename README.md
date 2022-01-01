@@ -10,7 +10,7 @@ This project shows how to use the OpenAPI specification to define a RESTful web 
 2. **project-api :** Add new yaml file library-api.yaml which contains OpenAPI specification.
 3. **project-api :** Add below dependency for Swagger code generation.
 
-```sh
+```xml
    <!-- For swagger codegen begin -->
 
    <dependency>
@@ -32,7 +32,7 @@ This project shows how to use the OpenAPI specification to define a RESTful web 
 ```
 
 4. **project-api :** Add below build plugin for Swagger code generation.
-```sh
+```xml
    <!-- Plugin for generating stub from openapi specification begin -->
    <plugin>
    	<groupId>io.swagger.codegen.v3</groupId>
